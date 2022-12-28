@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Infinit001
-- 👀 I’m interested in musi, robotics and software engineering
+- 👀 I’m interested in music, robotics and software engineering
 - 🌱 I’m currently learning javascript, MySQL and Fluter
 - 📫 How to reach me: 
 - Gmail: infinitminer.sey@gmail.com
