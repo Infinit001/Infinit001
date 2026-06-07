@@ -8,7 +8,7 @@ Building websites that refuse to blend in.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white)](https://yoursite.com)
 [![Gmail](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsuzette.2024@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-suzette)
 
 </div>
 
