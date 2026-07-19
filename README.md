@@ -52,7 +52,7 @@ Full case studies with the problem → response → outcome breakdown live at **
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-original-wordmark.svg" alt="git" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="36" height="36"/>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="36" height="36"/>
@@ -62,8 +62,8 @@ Full case studies with the problem → response → outcome breakdown live at **
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=infinit001&show_icons=true&locale=en&theme=default&hide_border=true" alt="infinit001 stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinit001&layout=compact&hide_border=true" alt="infinit001 top langs" height="165"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=infinit001&show_icons=true&locale=en&theme=default&hide_border=true" alt="infinit001 stats" height="165"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=infinit001&layout=compact&hide_border=true" alt="infinit001 top langs" height="165"/>
 </p>
 
 <p align="center">
@@ -71,5 +71,5 @@ Full case studies with the problem → response → outcome breakdown live at **
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinit001&theme=flat&no-frame=true&row=1&column=6" alt="infinit001 trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=infinit001&theme=flat&no-frame=true&row=1&column=6" alt="infinit001 trophies" /></a>
 </p>
